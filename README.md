@@ -1,7 +1,6 @@
 Witamy serdecznie,
 
-Panie Bartłomieju, plany będą dostępne dzisiaj. Jeżeli podczas wykonywania ćwiczeń odczuwalny będzie ból lub dyskomfort, prosimy niezwłocznie nas powiadomić i na czas wyjaśnienia sytuacji zaprzestać wykonywania ćwiczeń.
-
+Panie Bartłomieju, plany będą dostępne dzisiaj. Jeżeli podczas wykonywania ćwiczeń odczuwalny będzie ból lub dyskomfort, ciśnij do końca!
 Przed rozpoczęciem realizacji planu treningowego prosimy o zapoznanie się z poniższymi instrukcjami.
 
 SPOSÓB DOBIERANIA OBCIĄŻENIA:
