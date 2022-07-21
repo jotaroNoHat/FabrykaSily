@@ -14,7 +14,8 @@ PROGRESJA OBCIĄŻENIA:
 – w ćwiczeniach izolowanych (np. ćwiczenia na barki, biceps, triceps) zwiększaj obciążenie o 0,5–1 kg.
 
 SERIE ROZGRZEWKOWE:
-– w przypadku ćwiczeń wielostawowych wykonaj 2 lub 3 serie rozgrzewkowe, stopniowo zwiększając obciążenie.
+~~– w przypadku ćwiczeń wielostawowych wykonaj 2 lub 3 serie rozgrzewkowe, stopniowo zwiększając obciążenie.~~
+- a po co komu rozgrzewka?
 
 Dla przykładu – jeśli seria główna to 8 powtórzeń z obciążeniem 80 kg, serie rozgrzewkowe będą wyglądały następująco:
 8 powtórzeń, 20 kg (pusta sztanga),
